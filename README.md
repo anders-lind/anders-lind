@@ -1,27 +1,12 @@
-## Hi there 👋
+# MSE in Robotics
+I recently graduated as Master of Science in Engineering (Robot Systems), and on this page you can see a sneak peak of some of the projects i have worked on through my studies.
 
-### Vision pipeline
-https://github.com/user-attachments/assets/682318f4-f667-46cc-a79f-41da49300cda
+## Plant Pruning Robot
+For my master thesis me and my friend created a robot which autonomously prunes rotten leaves from a green wall. It uses color-based vision and AI segmentation to find the leaves, and then a custom designed 3D printed gripper is moved to its location using a Cable Driven Parallel Robot system (CDPR). This can be seen in more detail in the repository https://github.com/anders-lind/Greenwall-Pruning.
 
 ### Pruning operation
 https://github.com/user-attachments/assets/4c02b32c-654f-4441-81c2-5ef7e5abf8df
 
+### Vision pipeline
+https://github.com/user-attachments/assets/682318f4-f667-46cc-a79f-41da49300cda
 
-### Searching for a leaf, and then pruning it
-https://github.com/user-attachments/assets/4515f08c-76e1-426e-928a-3e6647255b26
-
-
-<!--
-**anders-lind/anders-lind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
