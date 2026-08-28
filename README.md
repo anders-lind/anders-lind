@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+https://github.com/user-attachments/assets/682318f4-f667-46cc-a79f-41da49300cda
+
+https://github.com/user-attachments/assets/4c02b32c-654f-4441-81c2-5ef7e5abf8df
+
+
 <!--
 **anders-lind/anders-lind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
