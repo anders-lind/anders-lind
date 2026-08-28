@@ -1,8 +1,14 @@
 ## Hi there 👋
 
+### Vision pipeline
 https://github.com/user-attachments/assets/682318f4-f667-46cc-a79f-41da49300cda
 
+### Pruning operation
 https://github.com/user-attachments/assets/4c02b32c-654f-4441-81c2-5ef7e5abf8df
+
+
+### Searching for a leaf, and then pruning it
+https://github.com/user-attachments/assets/4515f08c-76e1-426e-928a-3e6647255b26
 
 
 <!--
