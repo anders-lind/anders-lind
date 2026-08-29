@@ -13,3 +13,15 @@ For my master thesis me and my friend created a robot which autonomously prunes 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="videos/Vision pipeline.gif" width="400px"/>
 </p>
+
+## Bi-copter
+
+My exam project for Guidance Navigation and Control where me and my friend (https://github.com/peterfryd) implemented a realistic simulation of a bi-copter (a drone with only two rotors) and controlled it. See the repository https://github.com/peterfryd/bicopter for more details.
+
+### Demonstration
+
+<p>
+  <img src="videos/Video of test flight compressed.gif" width="200px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="400px" alt="image" src="https://github.com/user-attachments/assets/16f722ae-bbe2-482d-adc8-1b8f91ee5bfe" />
+</p>
