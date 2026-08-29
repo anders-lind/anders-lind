@@ -23,5 +23,5 @@ My exam project for Guidance Navigation and Control where me and my friend (http
 <p>
   <img src="videos/Video of test flight compressed.gif" width="250px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="5500px" alt="image" src="https://github.com/user-attachments/assets/16f722ae-bbe2-482d-adc8-1b8f91ee5bfe" />
+  <img width="550px" alt="image" src="https://github.com/user-attachments/assets/16f722ae-bbe2-482d-adc8-1b8f91ee5bfe" />
 </p>
