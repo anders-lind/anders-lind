@@ -1,4 +1,4 @@
-[![🎓 MSc. in Engineering](https://img.shields.io/badge/%F0%9F%8E%93_MSc.-%20Engineering-%23854dba?style=flat-square)](#)
+[![🎓 MSc in Engineering](https://img.shields.io/badge/%F0%9F%8E%93_MSc-%20Engineering-%23854dba?style=flat-square)](#)
 [![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=flat-square&logo=github)](https://github.com/anders-lind?tab=repositories)
 
 # MSE in Robot Systems
