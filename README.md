@@ -1,3 +1,4 @@
+
 [![🎓 MSc in Engineering](https://img.shields.io/badge/%F0%9F%8E%93_MSc-%20Engineering-%23854dba?style=flat-square)](#)
 [![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=flat-square&logo=github)](https://github.com/anders-lind?tab=repositories)
 
@@ -35,5 +36,5 @@ This project implemented autonomous robot T-shirt folding with a UR5 robot arm a
 ### Demonstration and SIFT correction
 Below is a demonstration of the autonomous folding and a figure of the SIFT-corrected landmark detection.
 
-TODO: Add video
+<img width="200" height="355" alt="output" src="https://github.com/user-attachments/assets/558c6863-aa96-4e60-8a7c-a297f740a2c7" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fd67affa-1f8d-40e9-a22b-7c4c6db480a2" />
