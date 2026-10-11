@@ -3,7 +3,7 @@
 
 # MSE in Robot Systems
 
-I recently graduated as Master of Science in Engineering (Robot Systems) with specialty in Drones and Autonomous Systems, and on this page you can see some of the projects i have worked on through my studies.
+I recently graduated as Master of Science in Engineering of Robot Systems with specialty in Drones and Autonomous Systems, and on this page you can see some of the projects i have worked on through my studies.
 
 ## Plant Pruning Robot
 
