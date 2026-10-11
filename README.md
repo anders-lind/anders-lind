@@ -30,15 +30,10 @@ My exam project for Guidance Navigation and Control where me and my friend (http
 </p>
 
 ## Autonomous T-Shirt Folding
-This project implemented autonomous robot T-shirt folding with a UR5 robot arm and novel landmark detection with SIFT-based correction.
+This project implemented autonomous robot T-shirt folding with a UR5 robot arm and novel landmark detection with SIFT-based correction. This can be seen in more detail in the repository https://github.com/peterfryd/project_in_robotics_clothing_manipulation/.
 
-See the repository https://github.com/peterfryd/project_in_robotics_clothing_manipulation/ for more details.
-
+### Demonstration and SIFT correction
 Below is a demonstration of the autonomous folding and a figure of the SIFT-corrected landmark detection.
 
+TODO: Add video
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fd67affa-1f8d-40e9-a22b-7c4c6db480a2" />
-
-
-https://github.com/user-attachments/assets/49eee1d2-343b-4f16-88f1-92ff69e32923
-
-
